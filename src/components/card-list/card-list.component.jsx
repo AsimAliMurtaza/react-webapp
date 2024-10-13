@@ -1,4 +1,4 @@
-import './card-list.styles.css';
+import './card-list.styles.scss';
 import Card from '../card/card.component';
 
 const CardList = ({ monsters })=>(
